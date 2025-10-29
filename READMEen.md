@@ -109,5 +109,5 @@ Jupyter Notebook / VS Code
 Author
 
 Antonio Romero
-Continuous Improvement & VoC Team Leader
+Continuous Improvement & VoC Senior Lead
 Responsible for data analysis, model development, and documentation.
