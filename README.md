@@ -1,5 +1,5 @@
 # Predicción del Rendimiento Académico de Estudiantes
-##Descripción General
+## Descripción General
 
 Este proyecto tiene como objetivo predecir el rendimiento académico de los estudiantes en función de variables relacionadas con hábitos de estudio, asistencia, descanso y estilo de aprendizaje.
 El análisis se ha abordado desde dos perspectivas complementarias:
