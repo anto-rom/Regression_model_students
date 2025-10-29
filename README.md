@@ -87,3 +87,8 @@ La variable nota_anterior es el predictor más consistente en ambos modelos.
 Los modelos de tipo Random Forest ofrecieron un mejor equilibrio entre precisión y estabilidad.
 
 El sistema puede emplearse para identificar alumnos en riesgo y anticipar medidas de refuerzo.
+
+
+Antonio Romero
+Continuous Improvement & VoC Senior Lead
+Responsible for data analysis, model development, and documentation.
