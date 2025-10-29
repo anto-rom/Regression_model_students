@@ -4,9 +4,9 @@
 Este proyecto tiene como objetivo predecir el rendimiento académico de los estudiantes en función de variables relacionadas con hábitos de estudio, asistencia, descanso y estilo de aprendizaje.
 El análisis se ha abordado desde dos perspectivas complementarias:
 
-###Clasificación: determinar si el alumno aprobará o no.
+### Clasificación: determinar si el alumno aprobará o no.
 
-###Regresión: estimar la nota final obtenida por el estudiante.
+### Regresión: estimar la nota final obtenida por el estudiante.
 
 El dataset utilizado contiene información de 1.000 estudiantes y combina variables numéricas y categóricas representativas del comportamiento académico.
 
