@@ -1,16 +1,16 @@
-Student Academic Performance Prediction
-Overview
+# Student Academic Performance Prediction
+## Overview
 
 This project aims to predict students’ academic performance based on variables related to study habits, attendance, sleep patterns, and learning styles.
 The analysis was carried out from two complementary perspectives:
 
-Classification: Predict whether a student will pass or fail.
+### Classification: Predict whether a student will pass or fail.
 
-Regression: Predict the student’s final grade.
+### Regression: Predict the student’s final grade.
 
 The dataset includes information from 1,000 students, combining numerical and categorical variables that reflect academic behavior and engagement.
 
-Project Objectives
+## Project Objectives
 
 Identify the factors with the strongest impact on student performance.
 
@@ -20,14 +20,14 @@ Evaluate performance through standard metrics and ensure model stability.
 
 Provide interpretable insights to support data-driven educational strategies.
 
-Dataset Structure
+## Dataset Structure
 Variable Type	Columns
 Numerical	horas_estudio_semanal, nota_anterior, tasa_asistencia, horas_sueno, edad, nota_final
 Categorical	nivel_dificultad, tiene_tutor, horario_estudio_preferido, estilo_aprendizaje
 Target Variables	aprobado (binary), nota_final (continuous)
 Methodology
 
-Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 
 Distribution analysis, correlations, and outlier detection.
 
@@ -49,7 +49,7 @@ Regression: Linear Regression and Random Forest Regressor.
 
 80/20 train-test split and metric-based model evaluation.
 
-Evaluation & Validation:
+## Evaluation & Validation:
 
 Classification → Accuracy, F1, ROC-AUC.
 
@@ -57,7 +57,7 @@ Regression → MAE, RMSE, R².
 
 Residual analysis and model comparison.
 
-Key Results
+## Key Results
 Classification Model (Pass/Fail)
 
 Accuracy: 0.85 – 0.90
@@ -78,7 +78,7 @@ RMSE: 0.50
 
 Top Predictors: nota_anterior, tasa_asistencia, horas_sueno.
 
-Conclusions
+## Conclusions
 
 Academic success is primarily driven by prior performance, attendance, and consistent study habits.
 
